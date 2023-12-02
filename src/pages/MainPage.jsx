@@ -83,7 +83,7 @@ export default function Cluster() {
                     >
                     <CustomOverlay>
                         <a
-                        href="https://map.kakao.com/link/map/11394059"
+                        href="https://firebasestorage.googleapis.com/v0/b/temp-f41a9.appspot.com/o/16_11_25.mp4?alt=media&token=a796d78d-8d09-4c1a-a202-aaf7d0920563"
                         target="_blank"
                         rel="noreferrer"
                         >
